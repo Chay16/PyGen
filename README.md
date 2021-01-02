@@ -1,2 +1,2 @@
-# PyGen
+PyGen
 Python Library for Genetic Algorithms
